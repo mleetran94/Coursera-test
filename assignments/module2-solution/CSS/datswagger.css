@@ -12,14 +12,14 @@ header{
   font-family: Arial;
 }
 h1, h2, h3{
-  border: 2px solid black;
+  border: 1px solid black;
 }
 section{
   color: white;
   text-shadow: 1px 1px black;
   position: relative;
-  margin: 5px;
-  border: 2px solid black;
+  margin: 10px;
+  border: 1px solid black;
   padding: 10px;
   padding-top: 40px;
   text-align: center;
@@ -35,8 +35,8 @@ section{
   margin: 0px;
   padding: 3px 0px 3px 0px;
   width: 150px;
-  top: -2px;
-  right: -2px;
+  top: -1px;
+  right: -1px;
   background-color: #84e1e1; 
   font-size: 125%;
   font-weight: bold;
@@ -80,7 +80,6 @@ section{
   .col-md-12 {
     width: 100%;
   }
-
 }
 
 
