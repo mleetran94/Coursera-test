@@ -50,7 +50,10 @@ body{
 h1 {
   font-size: 32px;
 }
-h2, h3, h4{
+h2{
+  font-size: 3em;
+}
+h3, h4, h5{
   position: relative;
   text-align: center;
   font-size: 2em;
@@ -77,7 +80,7 @@ section{
 }
 /*class and id specifications for font,positioning, etc*/
 #main-content{
-  background-color: #4B0058;
+  background-color: #F4B5FF;
   box-shadow: 0 0 50px black;
   border: 1px solid black;
 }
@@ -93,23 +96,12 @@ section{
 #section3 {
   background-color: #910000;
 }
-.container-fluid .jumbotron{
-  box-shadow: 0 0 10px black;
-  border: 1px solid black;
-  background-color: #FF56E5;
-  margin-left: 20vw;
-  margin-right: 20vw;
-  padding: 10px;
-  padding-bottom: 5px;
-}
-.container-fluid .jumbotron p {
-  font-size: 45px;
-}
+
 .container-fluid .row div section p{
   padding: 10px;
 }
 .container-fluid .row div a{
-  color: #D7C2FF;
+  color: #3800A2;
   padding-bottom: 10px;
   margin: 20px;
   margin-top: 0;
