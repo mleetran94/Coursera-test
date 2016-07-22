@@ -35,6 +35,7 @@ section{
 
 /*class and id specifications for font,positioning, etc*/
 .sectionTitle{
+  height: 100px;
   color: black;
   text-shadow: none;
   position: absolute;
